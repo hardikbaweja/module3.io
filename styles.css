@@ -1,0 +1,58 @@
+*{
+	box-sizing: border-box;
+}
+
+body {
+	background-color: maroon;
+}
+section{
+	background-color: grey;
+	color: black;
+	font-family: oxygen;
+	border:1px solid black;
+	margin-top: 10px;
+
+}
+h1{
+	font-size:1.5em;
+	margin-top: 0;
+	margin-left: 0;
+	color:green;
+	font-family: lora;
+	font-weight: bold;
+}
+#header-nav{
+	background-color: yellow;
+	border-radius: 0;
+	border:0;
+}
+h2{
+	color:yellow;
+}
+.col-xs-12{
+	width: 95%;
+	margin-left: 2%;
+	
+}
+#top{
+	color:blue;
+}
+h3{
+	font-weight: bold;
+    
+}
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar{
+	border: 2px solid #61122f;
+}
+#nav-list{
+	text-align: center;
+	font-family: Oxygen;
+	font-weight: bold;
+		font-size: 1.5em;
+}
+#collapsable-nav a{
+	color:red;
+	}
+#nav-list a:hover {
+  background: #E7E7E7;
+}
